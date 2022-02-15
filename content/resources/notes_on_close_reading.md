@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: Notes on Close Reading
-type: OCWFile
 uid: f979f6e2-a951-d52a-74e7-67c3e4ee7815
 ---

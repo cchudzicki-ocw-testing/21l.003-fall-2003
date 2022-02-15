@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: Notes on Close Reading
-type: OCWFile
 uid: eec7b782-cc26-4b4e-d59a-41feb672fa6c
 ---
