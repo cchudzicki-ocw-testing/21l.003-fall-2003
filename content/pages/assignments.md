@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Guidelines and instructions for the essays assigned for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
