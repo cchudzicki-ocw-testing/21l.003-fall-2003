@@ -5,6 +5,7 @@ file: /courses/21l-003-introduction-to-fiction-fall-2003/f979f6e2a951d52a74e767c
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
